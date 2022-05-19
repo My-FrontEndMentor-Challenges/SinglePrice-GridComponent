@@ -147,6 +147,9 @@ body {
   .second-grid h2 {
     font-size: 1rem;
   }
+  .second-grid-btn {
+    width: 95%;
+  }
   .third-grid {
     grid-column: 2/3;
     grid-row: 2;
